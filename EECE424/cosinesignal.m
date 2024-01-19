@@ -1,3 +1,4 @@
+% By Chidinma Dike
 % Define signal parameters
 frequency = 100e6;  % Frequency in Hz (100 MHz)
 amplitude = 10;    % Amplitude in volts (10 V)
