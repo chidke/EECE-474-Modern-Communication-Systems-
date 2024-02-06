@@ -13,7 +13,7 @@ Ab = 1; % Amplitude for baseband signal
 
 %% Generate timebase
 fs= OverSampling*max(fc);
-t= 0:1/fs:T-1/fs; % time base samapled at fs
+t= 0:1/fs:T-1/fs; % time base sampled at fs
 N= length(t); % Sets the length of signals
 
 %% Generate carrier
